@@ -5,3 +5,6 @@
 ![WhatsApp Image 2023-10-05 at 12 22 54 AM](https://github.com/SHAKSAMKUMAR/C-programming--lab/assets/146616727/81b11e07-9599-4ac5-8ead-ff98c7b84c81)
 ![WhatsApp Image 2023-10-05 at 12 22 53 AM](https://github.com/SHAKSAMKUMAR/C-programming--lab/assets/146616727/f7d1bf06-0fd3-403b-9f1a-8ceb4140334f)
 ![WhatsApp Image 2023-10-05 at 12 22 53 AM (1)](https://github.com/SHAKSAMKUMAR/C-programming--lab/assets/146616727/6070333d-8250-476e-8961-35f838ddf0dc)
+![Screenshot (1)](https://github.com/SHAKSAMKUMAR/C-programming--lab/assets/146616727/7f62af7e-4e3a-426f-a500-d461f49573a7)
+![Screenshot (2)](https://github.com/SHAKSAMKUMAR/C-programming--lab/assets/146616727/78616d3f-8bd9-429e-beb6-3bafca5eb0fa)
+![Screenshot (3)](https://github.com/SHAKSAMKUMAR/C-programming--lab/assets/146616727/fea6a0ba-9659-49f0-9419-68a0d0276e7e)
